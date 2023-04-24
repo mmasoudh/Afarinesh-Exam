@@ -1,0 +1,7 @@
+C:\Users\MmasoudH\source\repos\Common_Substring\Common_Substring\bin\Debug\Common_Substring.exe.config
+C:\Users\MmasoudH\source\repos\Common_Substring\Common_Substring\bin\Debug\Common_Substring.exe
+C:\Users\MmasoudH\source\repos\Common_Substring\Common_Substring\bin\Debug\Common_Substring.pdb
+C:\Users\MmasoudH\source\repos\Common_Substring\Common_Substring\obj\Debug\Common_Substring.csprojAssemblyReference.cache
+C:\Users\MmasoudH\source\repos\Common_Substring\Common_Substring\obj\Debug\Common_Substring.csproj.CoreCompileInputs.cache
+C:\Users\MmasoudH\source\repos\Common_Substring\Common_Substring\obj\Debug\Common_Substring.exe
+C:\Users\MmasoudH\source\repos\Common_Substring\Common_Substring\obj\Debug\Common_Substring.pdb
