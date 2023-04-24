@@ -1,0 +1,7 @@
+C:\Users\MmasoudH\source\repos\Target_Number\Target_Number\bin\Debug\Target_Number.exe.config
+C:\Users\MmasoudH\source\repos\Target_Number\Target_Number\bin\Debug\Target_Number.exe
+C:\Users\MmasoudH\source\repos\Target_Number\Target_Number\bin\Debug\Target_Number.pdb
+C:\Users\MmasoudH\source\repos\Target_Number\Target_Number\obj\Debug\Target_Number.csprojAssemblyReference.cache
+C:\Users\MmasoudH\source\repos\Target_Number\Target_Number\obj\Debug\Target_Number.csproj.CoreCompileInputs.cache
+C:\Users\MmasoudH\source\repos\Target_Number\Target_Number\obj\Debug\Target_Number.exe
+C:\Users\MmasoudH\source\repos\Target_Number\Target_Number\obj\Debug\Target_Number.pdb
